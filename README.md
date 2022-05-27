@@ -1,2 +1,8 @@
 # informeProductos
 Reto 2 Java - Programa que genera un informe de los productos de un inventario.
+
+### Descripcion del Reto:
+Crear una clase Producto con los siguientes atributos, codigo, nombre, precio, inventario.<br>
+Estos productos deben estar guardados en un HashMap.<br>
+Se deben crear metodos para listar todos los productos, agregar un producto, actualizar un producto, borrar un producto.<br>
+Ademas de imprimir el producto con el precio mayor, el producto con el precio menor y su promedio mas el valor de todo el inventario de productos.
